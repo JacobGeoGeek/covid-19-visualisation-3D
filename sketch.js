@@ -63,7 +63,6 @@ function draw() {
 
   rotateY(angle);
 
-  lights();
   fill(200);
   noStroke();
   texture(earth);
