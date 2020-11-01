@@ -2,7 +2,7 @@
 
 #### Description
 
-This little map was created in order to learn and understand the main concept of [p5.js](https://p5js.org/) and [mappa.js](https://mappa.js.org/) and also do the coding train challenge for the Hacktoberfest 2020
+This little map was created in order to learn and understand the main concept of [p5.js](https://p5js.org/) also do the coding train challenge for the Hacktoberfest 2020
 
 #### Data source:
 
